@@ -15,7 +15,7 @@
     
         // Variable need a '$'. They are not strongly typed
         $name = "Shari Rattigan";
-        $age = "16";
+        $age = "30";
         // echo variable
         echo $name;
         // Echo using double quotes and interpolation
