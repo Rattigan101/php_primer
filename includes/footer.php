@@ -1,5 +1,5 @@
 <?php 
-        echo "<p>Copyright &copy; 2022-" .date("Y") . " PHP Masterclass</p>";
+        echo "<p>Copyright &copy; 2020-" .date("Y") . " PHP Masterclass</p>";
     ?> 
     </div>
     <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2
