@@ -23,7 +23,7 @@
 
         function addFunction($num1, $num2){
             $sum = $num1 + $num2;
-            $num2 = $num2 + 1;
+            $num2 = $num2;
             echo "The sum of $num1 and $num2 is: $sum <br/>";
         }
 
@@ -37,10 +37,10 @@
             return $prod;
         }
 
-        $num = 501;
-        addFunction (10, 21);
+        $num = 500;
+        addFunction (10, 20);
         addFunction (10, $num);
-        addFunction (10, 51);
+        addFunction (10, 50);
 
         changeNum($num);
         echo $num . '<br/>';
