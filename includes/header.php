@@ -10,7 +10,7 @@
 </head>
 <body>
     <div class="container">
-    <h2>Follow each link to the page example</h2>
+    <h2>Click each link to see the page example below:</h2>
     <ul class="nav nav-pills">
         <li class="nav-item"><a class="nav-link" href = "index.php">Home</a></li>
         <li class="nav-item"><a class="nav-link" href = "array.php">Simple Array and Printouts</a></li>

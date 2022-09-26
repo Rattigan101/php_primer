@@ -37,10 +37,10 @@
             return $prod;
         }
 
-        $num = 500;
-        addFunction (10, 20);
+        $num = 501;
+        addFunction (10, 21);
         addFunction (10, $num);
-        addFunction (10, 50);
+        addFunction (10, 51);
 
         changeNum($num);
         echo $num . '<br/>';
